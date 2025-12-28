@@ -34,16 +34,15 @@ Ingeniera en Informática apasionada por el **análisis de datos** y la **automa
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 ---
-
 ## 📂 Proyectos Destacados
 
 | Proyecto | Descripción | Tecnologías |
 |----------|-------------|-------------|
-| 🌧️ Predicción de Lluvia | Modelo de ML para predicción meteorológica | Python, scikit-learn |
+| [🌧️ Predicción de Lluvia](https://github.com/akarina-data/prediccion-lluvia-aus) | Modelo de ML para predicción meteorológica en Australia usando CRISP-DM | Python, scikit-learn, Pandas |
 | 🏦 Análisis Bancario | KPIs de riesgo e inversiones | BigQuery, Looker Studio |
 | 📊 Segmentación Clientes | Clustering con K-Means | Python, Pandas |
 
-*Repositorios en construcción* 🚧
+*Más proyectos en construcción* 🚧
 
 ---
 

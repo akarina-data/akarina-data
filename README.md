@@ -39,7 +39,7 @@ Ingeniera en Informática apasionada por el **análisis de datos** y la **automa
 | Proyecto | Descripción | Tecnologías |
 |----------|-------------|-------------|
 | [🌧️ Predicción de Lluvia](https://github.com/akarina-data/prediccion-lluvia-aus) | Modelo de ML para predicción meteorológica en Australia usando CRISP-DM | Python, scikit-learn, Pandas |
-| 📊 Segmentación Clientes | Clustering con K-Means | Python, Pandas |
+| [📊 Segmentación Clientes](https://github.com/akarina-data/segmentacion-funcionarios-publicos) | Clustering con K-Means | Python, Pandas |
 
 *Más proyectos en construcción* 🚧
 
